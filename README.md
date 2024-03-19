@@ -4,7 +4,7 @@
 <img src = "Analise-de-Dados-PowerBI/img/logo.png" width=60 alt = "Dio-Squadio"> 
 &nbsp &nbsp &nbsp &nbsp
 <img src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" width=60 alt = "DIO">
-
+</div>
 &nbsp;
 &nbsp;
 &nbsp;
