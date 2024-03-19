@@ -50,3 +50,11 @@ Lembre-se de:
 - Caso você tenha familiaridade fique livre para utilizar outros artifícios nos botões e outros 
 
 - Submenta seu projeto através do link no github 
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+<img src = "img/pag1.png" width=480 alt = "Página 1 ">
+
+<img src = "img/pag2.png" width=480 alt = "Página 2">
