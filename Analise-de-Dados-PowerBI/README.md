@@ -1,7 +1,7 @@
 # DIO PYTHON ANALYTICS - SQUADIO
 
 <div align="center">
-<img src = img/logo.png" width=60 alt = "Dio-Squadio"> 
+<img src = "img/logo.png" width=60 alt = "Dio-Squadio"> 
 &nbsp &nbsp &nbsp &nbsp
 <img src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" width=60 alt = "DIO">
 &nbsp &nbsp &nbsp &nbsp
